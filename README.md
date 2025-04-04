@@ -1,5 +1,11 @@
 # Streamlit-Mortgage-calci
+This test will guide the development of my next major project, where I plan to integrate **AI Agents**, **LLMs**, and advanced **real-time feedback systems** into a clean and interactive frontend using Streamlit.
 
+## 🚀 Live Demo
+
+👉 [Click here if you wanna check out the deployed Streamlit app](https://vij-sameerb5-streamlit-mortgage-calc-mortgage-calculator-li8zax.streamlit.app/)
+
+<img width="1708" alt="Screenshot 2025-04-04 at 3 27 51 PM" src="https://github.com/user-attachments/assets/fd39b214-5c9b-480c-a35c-9051cddf611a" />
 
 # 🔍 Streamlit Demo: Profile Page
 
